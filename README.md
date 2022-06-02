@@ -1,1 +1,1 @@
-# ssg-sea-api
+# Skills Extraction Algorithm API
